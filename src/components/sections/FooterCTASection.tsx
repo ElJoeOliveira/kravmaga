@@ -19,6 +19,8 @@ export function FooterCTASection() {
         
         <a 
           href={WHATSAPP_URL} 
+          target="_blank"
+          rel="noopener noreferrer"
           className="inline-flex items-center justify-center font-display uppercase text-2xl font-bold tracking-widest px-12 py-6 bg-black text-primary hover:bg-white hover:text-black hover:scale-105 transition-all duration-300"
         >
           Quero Minha Aula Cortesia <span className="ml-4 font-normal">→</span>

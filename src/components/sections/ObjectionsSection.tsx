@@ -7,7 +7,7 @@ export function ObjectionsSection() {
   ];
 
   return (
-    <section className="w-full py-24 brutal-border-b bg-surface">
+    <section id="faq" className="w-full py-24 brutal-border-b bg-surface">
       <div className="max-w-4xl mx-auto px-6">
         <h2 className="text-4xl md:text-6xl font-display font-bold uppercase text-text-main mb-12 text-center">
           Acesso Restrito? <span className="text-border-dark">— FALSO.</span>

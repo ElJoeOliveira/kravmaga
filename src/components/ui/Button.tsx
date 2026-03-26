@@ -19,6 +19,8 @@ export function Button({ href, variant = "primary", children, className = "", ..
   return (
     <a 
       href={href} 
+      target="_blank"
+      rel="noopener noreferrer"
       className={`${baseStyles} ${variants[variant]} ${className}`}
       {...props}
     >

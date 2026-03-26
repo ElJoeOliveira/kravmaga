@@ -10,7 +10,7 @@ export function BenefitsSection() {
   ];
 
   return (
-    <section className="w-full py-24 brutal-border-b bg-background">
+    <section id="beneficios" className="w-full py-24 brutal-border-b bg-background">
       <div className="max-w-7xl mx-auto px-6">
         <div className="mb-16">
           <h2 className="text-5xl md:text-7xl font-display font-bold uppercase text-text-main">

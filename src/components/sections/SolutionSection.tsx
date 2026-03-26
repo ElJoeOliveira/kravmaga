@@ -1,6 +1,6 @@
 export function SolutionSection() {
   return (
-    <section className="w-full bg-surface brutal-border-b">
+    <section id="metodo" className="w-full bg-surface brutal-border-b">
       <div className="grid md:grid-cols-2">
         <div className="p-12 md:p-24 border-b md:border-b-0 md:border-r border-border-dark flex flex-col justify-center">
           <div className="text-border-dark font-display text-8xl mb-6">01</div>

@@ -7,10 +7,12 @@ import { AuthoritySection } from "@/components/sections/AuthoritySection";
 import { SocialProofSection } from "@/components/sections/SocialProofSection";
 import { FooterCTASection } from "@/components/sections/FooterCTASection";
 import { LegalFooter } from "@/components/sections/LegalFooter";
+import { Navbar } from "@/components/sections/Navbar";
 
 export default function Home() {
   return (
     <div className="flex flex-col min-h-screen">
+      <Navbar />
       <HeroSection />
       <PainSection />
       <SolutionSection />

@@ -3,7 +3,7 @@ import { WHATSAPP_URL } from "@/lib/constants";
 
 export function AuthoritySection() {
   return (
-    <section className="w-full flex border-b border-border-dark flex-col lg:flex-row">
+    <section id="instrutor" className="w-full flex border-b border-border-dark flex-col lg:flex-row">
       <div className="p-10 md:p-20 bg-background lg:w-1/2 flex flex-col border-b lg:border-b-0 lg:border-r border-border-dark">
         <div className="inline-block px-4 py-1 border border-border-dark text-text-muted font-display uppercase tracking-widest text-sm mb-8 w-max">
           Dossiê: O Instrutor
