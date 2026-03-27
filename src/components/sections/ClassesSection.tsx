@@ -15,8 +15,8 @@ export function ClassesSection() {
   ];
 
   return (
-    <section id="aulas" className="w-full py-24 brutal-border-b bg-surface">
-      <div className="max-w-screen-2xl mx-auto px-6">
+    <section id="aulas" className="w-full py-24 brutal-border-b bg-surface flex justify-center">
+      <div className="max-w-7xl mx-auto w-full px-6">
         <div className="mb-16">
           <div className="inline-block px-4 py-1 border border-border-dark text-text-muted font-display uppercase tracking-widest text-sm mb-4">
             Modalidades
