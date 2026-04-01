@@ -1,7 +1,7 @@
 export function SolutionSection() {
   return (
-    <section id="metodo" className="w-full bg-surface brutal-border-b">
-      <div className="grid md:grid-cols-2">
+    <section id="metodo" className="w-full bg-surface brutal-border-b flex justify-center">
+      <div className="max-w-7xl mx-auto w-full grid md:grid-cols-2 border-x border-border-dark">
         <div className="p-12 md:p-24 border-b md:border-b-0 md:border-r border-border-dark flex flex-col justify-center">
           <div className="text-border-dark font-display text-8xl mb-6">01</div>
           <h3 className="text-3xl font-display uppercase tracking-wide text-text-muted mb-6">O Alvo</h3>

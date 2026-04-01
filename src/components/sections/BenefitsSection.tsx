@@ -7,6 +7,11 @@ export function BenefitsSection() {
     { title: "Defesa e Ataque Simultâneo", text: "Neutralize a agressão e contra-ataque na mesma fração de segundo." },
     { title: "Decisão sob Extremo Estresse", text: "Treinamento que forja a mente a não hesitar quando sua integridade está em risco." },
     { title: "Melhoria do Condicionamento", text: "Aumento real do preparo cardiovascular, força, explosão muscular e reflexos." },
+    // Novos itens do Alteraçoes.txt
+    { title: "Transformação Pessoal", text: "Muito além de uma prática física: ele fortalece a mente, desenvolve autoconfiança e prepara você para focar sob intensa pressão." },
+    { title: "Reação e Posicionamento", text: "Aprenda a reagir diante da violência real e não a recuar. Acima de tudo, aprenda a se posicionar sem demonstrar medo ou se esconder." },
+    { title: "Controle Emocional", text: "Cada treino constrói mais disciplina, foco e controle emocional, criando uma versão muito mais segura, preparada e determinada de você." },
+    { title: "Mentalidade Inabalável", text: "Assuma o controle efetivo da sua própria segurança, vença o medo biológico do confronto e esteja sempre pronto para o pior cenário." },
   ];
 
   return (
